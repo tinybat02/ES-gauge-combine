@@ -1,0 +1,25 @@
+{
+  "type": "panel",
+  "name": "ES Gauge Combine",
+  "id": "id-es-gauge-combine",
+  "dataFormats": ["table"],
+  "info": {
+    "description": "ES Gauge Combine",
+    "author": {
+      "name": "Nam Le"
+    },
+    "keywords": [],
+    "logos": {
+      "small": "img/gauge.svg",
+      "large": "img/gauge.svg"
+    },
+    "screenshots": [],
+    "version": "1.0.0",
+    "updated": "2021-06-01"
+  },
+
+  "dependencies": {
+    "grafanaVersion": "6.3.x",
+    "plugins": []
+  }
+}
